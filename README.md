@@ -13,17 +13,17 @@
 **Key Visualizations**
 Visualizations were created using Matplotlib and Seaborn to answer the following questions:
 
-🚹 Distribution of passengers by gender
+- Distribution of passengers by gender
 
-🛳️ Survival rate by class and gender
+- Survival rate by class and gender
 
-🧒 Age distribution and its impact on survival
+- Age distribution and its impact on survival
 
-🎟️ Class-wise embarkation analysis
+- Class-wise embarkation analysis
 
-🌍 Embarkation port vs. survival
+- Embarkation port vs. survival
 
-💰 Fare comparison across different classes and embarkation points
+- Fare comparison across different classes and embarkation points
 
 **Libraries Used**
 -pandas
@@ -35,6 +35,7 @@ Visualizations were created using Matplotlib and Seaborn to answer the following
 -seaborn
 
 **Objective**
+
 To present meaningful visual insights that explain survival trends and patterns among passengers.
 
 **Results & Insights**
